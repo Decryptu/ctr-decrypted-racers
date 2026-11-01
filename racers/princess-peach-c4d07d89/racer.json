@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "c4d07d89-2cf0-50d9-8bdf-d6de3dc9be51",
+  "name": "PRINCESS PEACH",
+  "short_name": "PEACH",
+  "version": "1",
+  "authors": [
+    "PootisDaMan"
+  ],
+  "credits": "MK roster update of DS Rainbow Road by Anfrost",
+  "source": {
+    "file": "RRDS_Remake_MK_Roster.xdelta",
+    "sha256": "1043685a4cefcd9517b3138a3bf9cfec85c1fa24eb4909cd590ecfeb356c00cb",
+    "url": "https://ctrcustomtracks.com/ds-rainbow-road/"
+  },
+  "template": "coco",
+  "engine": "accel",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 26364,
+      "sha256": "6604e6c46ca9bb3d48180695ef6cdffadc7e8f87bb38b1f2da26b1258a885169"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "0e37e77b3664728f0a43f15db0da1ae60f213cd86f3492b052c547f8f6f23b67"
+    }
+  }
+}

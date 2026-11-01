@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "408d38ef-231d-5367-8425-869dfa746bea",
+  "name": "IRON CHECKPOINT CRATE",
+  "short_name": "CRATE",
+  "version": "1",
+  "authors": [
+    "Lockheart"
+  ],
+  "credits": "",
+  "source": {
+    "file": "IronCheckpointCrateGaming.xdelta",
+    "sha256": "fa63e779192a5dcfc5a64179ec9fc52df4bcd14ebcfff698e6f4b476c3f9732d",
+    "url": "https://customteamracing.com/iron-checkpoint-crate/"
+  },
+  "template": "fakecrash",
+  "engine": "balanced",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 50968,
+      "sha256": "3497991f50af1aa5154820894a5dcfa39fd219098c2880416d510dcc6128cb9b"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "698df723bb8fe17729a749f4d11bd4942a4442d9dda6db2eb670c84e7664904e"
+    }
+  }
+}

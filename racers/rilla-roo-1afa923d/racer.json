@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "1afa923d-ecc0-5675-bf40-109281720433",
+  "name": "RILLA ROO",
+  "short_name": "RILLA",
+  "version": "1",
+  "authors": [
+    "Lockheart"
+  ],
+  "credits": "Model edited from Crash Bash",
+  "source": {
+    "file": "RillaRoo.xdelta",
+    "sha256": "6cd585d113d42f2fda83c17083d222cfdd0f837140641f80c541375b5d73079f",
+    "url": "https://customteamracing.com/rilla-roo/"
+  },
+  "template": "papu",
+  "engine": "speed",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 21016,
+      "sha256": "01cb4d1b90c4d937b073f596fde632742bff152de7843e052c6530c2ace494de"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "1da2be47e7a2622b4c687b9b0f8999a70b69cc9e55b0be6fe32455df9c8aeb3b"
+    }
+  }
+}

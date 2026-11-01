@@ -17,16 +17,26 @@ mods linked below with `tools/racers/convert_racer.py` (CTR Decrypted).
 | DR. NITRUS BRIO | imlaughing2death, Nitrax, Lockheart | https://gamebanana.com/mods/698353 |
 | EMPEROR VELO XXVIII | imlaughing2death, Nitrax, Lockheart | https://gamebanana.com/mods/698353 |
 | GLADIATOR TINY | imlaughing2death, Nitrax, Lockheart | https://gamebanana.com/mods/698353 |
+| IRON CHECKPOINT CRATE | Lockheart | https://customteamracing.com/iron-checkpoint-crate/ |
 | KOALA KONG | robthefryman, Angel123/Booz | https://gamebanana.com/mods/573374 |
+| KOMODO MOE | Lockheart | https://customteamracing.com/komodo-moe/ |
 | LAB ASSISTANT | imlaughing2death, Nitrax, Lockheart | https://gamebanana.com/mods/698353 |
+| LUIGI | PootisDaMan (MK roster update of DS Rainbow Road by Anfrost) | https://ctrcustomtracks.com/ds-rainbow-road/ |
+| MARIO | PootisDaMan (MK roster update of DS Rainbow Road by Anfrost) | https://ctrcustomtracks.com/ds-rainbow-road/ |
+| N. BRIO | Lockheart (Model edited from Crash Bash) | https://customteamracing.com/dr-n-brio/ |
 | N. TRANCE | robthefryman, Angel123/Booz | https://gamebanana.com/mods/570560 |
 | NINA CORTEX | imlaughing2death, Nitrax, Lockheart | https://gamebanana.com/mods/698353 |
 | NITRUS OXIDE | imlaughing2death, Nitrax, Lockheart | https://gamebanana.com/mods/698353 |
 | PASADENA O POSSUM | imlaughing2death, Nitrax, Lockheart | https://gamebanana.com/mods/698353 |
+| PRINCESS PEACH | PootisDaMan (MK roster update of DS Rainbow Road by Anfrost) | https://ctrcustomtracks.com/ds-rainbow-road/ |
+| RAINBOW ROAD BOWSER | Angel123 (From DS Rainbow Road by Anfrost) | https://ctrcustomtracks.com/ds-rainbow-road/ |
 | RATCHET | imlaughing2death | https://gamebanana.com/mods/624342 |
+| RILLA ROO | Lockheart (Model edited from Crash Bash) | https://customteamracing.com/rilla-roo/ |
 | RILLA ROO | imlaughing2death, Nitrax, Lockheart | https://gamebanana.com/mods/698353 |
 | RUSTY WALRUS | imlaughing2death, Nitrax, Lockheart | https://gamebanana.com/mods/698353 |
+| SHY GUY | PootisDaMan (MK roster update of DS Rainbow Road by Anfrost) | https://ctrcustomtracks.com/ds-rainbow-road/ |
 | SIR DANIEL FORTESQUE | imlaughing2death (Model edited from a MediEvil 2 model by AAB.) | https://gamebanana.com/mods/599605 |
+| SPYRO | Lockheart | https://customteamracing.com/skateboard-spyro/ |
 | STEVE | VactricaKing | https://gamebanana.com/mods/520457 |
 | TAWNA BANDICOOT | imlaughing2death, Nitrax, Lockheart | https://gamebanana.com/mods/698353 |
 | WATERMELON | Fco64 | https://gamebanana.com/mods/595976 |

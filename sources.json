@@ -1,23 +1,164 @@
 {
-  "Bowsermod.xdelta": {"authors": ["Angel123/Booz", "robthefryman"], "url": "https://gamebanana.com/mods/580776"},
-  "ctr-u_CrunchKart.xdelta": {"authors": ["robthefryman", "Angel123/Booz"], "url": "https://gamebanana.com/mods/575350"},
-  "ctr-u_KongKart.xdelta": {"authors": ["robthefryman", "Angel123/Booz"], "url": "https://gamebanana.com/mods/573374"},
-  "ctr-u_N-TranceKart.xdelta": {"authors": ["robthefryman", "Angel123/Booz"], "url": "https://gamebanana.com/mods/570560"},
+  "Bowsermod.xdelta": {
+    "authors": [
+      "Angel123/Booz",
+      "robthefryman"
+    ],
+    "url": "https://gamebanana.com/mods/580776"
+  },
+  "ctr-u_CrunchKart.xdelta": {
+    "authors": [
+      "robthefryman",
+      "Angel123/Booz"
+    ],
+    "url": "https://gamebanana.com/mods/575350"
+  },
+  "ctr-u_KongKart.xdelta": {
+    "authors": [
+      "robthefryman",
+      "Angel123/Booz"
+    ],
+    "url": "https://gamebanana.com/mods/573374"
+  },
+  "ctr-u_N-TranceKart.xdelta": {
+    "authors": [
+      "robthefryman",
+      "Angel123/Booz"
+    ],
+    "url": "https://gamebanana.com/mods/570560"
+  },
   "CTRAnniversarySkins1-1.xdelta": {
-    "authors": ["imlaughing2death", "Nitrax", "Lockheart"],
+    "authors": [
+      "imlaughing2death",
+      "Nitrax",
+      "Lockheart"
+    ],
     "url": "https://gamebanana.com/mods/698353",
     "racers": {
-      "crash": {"name": "CRASH (ABOUT TIME)", "short_name": "CRASH"},
-      "cortex": {"name": "COCORTEX", "short_name": "COCORTEX"},
-      "tiny": {"name": "GLADIATOR TINY", "short_name": "G. TINY"}
+      "crash": {
+        "name": "CRASH (ABOUT TIME)",
+        "short_name": "CRASH"
+      },
+      "cortex": {
+        "name": "COCORTEX",
+        "short_name": "COCORTEX"
+      },
+      "tiny": {
+        "name": "GLADIATOR TINY",
+        "short_name": "G. TINY"
+      }
     }
   },
-  "CTRRatchetClankQwark.xdelta": {"authors": ["imlaughing2death"], "url": "https://gamebanana.com/mods/624342"},
-  "ctr_rebuild.xdelta": {"authors": ["imlaughing2death"], "credits": "Model edited from a MediEvil 2 model by AAB.", "url": "https://gamebanana.com/mods/599605"},
-  "NormalCTR.xdelta": {"authors": ["Fco64"], "url": "https://gamebanana.com/mods/595976",
-                       "racers": {"tiny": {"name": "WATERMELON", "short_name": "MELON"}}},
-  "Minecart Steve Kart.xdelta": {"authors": ["VactricaKing"], "url": "https://gamebanana.com/mods/520457",
-                                 "racers": {"crash": {"skip": true, "reason": "a placeholder sphere with the retail portrait"},
-                                            "cortex": {"name": "STEVE", "short_name": "STEVE"}}},
-  "JP_Crash.xdelta": {"racers": {"crash": {"name": "CRASH (JAPAN)", "short_name": "JP CRASH"}}}
+  "CTRRatchetClankQwark.xdelta": {
+    "authors": [
+      "imlaughing2death"
+    ],
+    "url": "https://gamebanana.com/mods/624342"
+  },
+  "ctr_rebuild.xdelta": {
+    "authors": [
+      "imlaughing2death"
+    ],
+    "credits": "Model edited from a MediEvil 2 model by AAB.",
+    "url": "https://gamebanana.com/mods/599605"
+  },
+  "NormalCTR.xdelta": {
+    "authors": [
+      "Fco64"
+    ],
+    "url": "https://gamebanana.com/mods/595976",
+    "racers": {
+      "tiny": {
+        "name": "WATERMELON",
+        "short_name": "MELON"
+      }
+    }
+  },
+  "Minecart Steve Kart.xdelta": {
+    "authors": [
+      "VactricaKing"
+    ],
+    "url": "https://gamebanana.com/mods/520457",
+    "racers": {
+      "crash": {
+        "skip": true,
+        "reason": "a placeholder sphere with the retail portrait"
+      },
+      "cortex": {
+        "name": "STEVE",
+        "short_name": "STEVE"
+      }
+    }
+  },
+  "JP_Crash.xdelta": {
+    "racers": {
+      "crash": {
+        "name": "CRASH (JAPAN)",
+        "short_name": "JP CRASH"
+      }
+    },
+    "authors": [
+      "Lockheart"
+    ],
+    "url": "https://customteamracing.com/japanese-crash/",
+    "credits": "Icon from the Japanese release"
+  },
+  "IronCheckpointCrateGaming.xdelta": {
+    "authors": [
+      "Lockheart"
+    ],
+    "url": "https://customteamracing.com/iron-checkpoint-crate/"
+  },
+  "Komodo_Moe.xdelta": {
+    "authors": [
+      "Lockheart"
+    ],
+    "url": "https://customteamracing.com/komodo-moe/"
+  },
+  "RillaRoo.xdelta": {
+    "authors": [
+      "Lockheart"
+    ],
+    "url": "https://customteamracing.com/rilla-roo/",
+    "credits": "Model edited from Crash Bash"
+  },
+  "Spyro_Skateboard.xdelta": {
+    "authors": [
+      "Lockheart"
+    ],
+    "url": "https://customteamracing.com/skateboard-spyro/"
+  },
+  "n.brio_cc.xdelta": {
+    "authors": [
+      "Lockheart"
+    ],
+    "url": "https://customteamracing.com/dr-n-brio/",
+    "credits": "Model edited from Crash Bash"
+  },
+  "RRDS_Remake.xdelta": {
+    "authors": [
+      "Angel123"
+    ],
+    "url": "https://ctrcustomtracks.com/ds-rainbow-road/",
+    "credits": "From DS Rainbow Road by Anfrost",
+    "racers": {
+      "tiny": {
+        "name": "RAINBOW ROAD BOWSER",
+        "short_name": "BOWSER"
+      }
+    }
+  },
+  "RRDS_Remake_MK_Roster.xdelta": {
+    "authors": [
+      "PootisDaMan"
+    ],
+    "url": "https://ctrcustomtracks.com/ds-rainbow-road/",
+    "credits": "MK roster update of DS Rainbow Road by Anfrost",
+    "racers": {
+      "tiny": {
+        "name": "RAINBOW ROAD BOWSER",
+        "short_name": "BOWSER"
+      }
+    }
+  }
 }

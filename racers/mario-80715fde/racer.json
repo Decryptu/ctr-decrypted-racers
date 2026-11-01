@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "80715fde-e61e-5366-b152-1aee498c39ee",
+  "name": "MARIO",
+  "short_name": "MARIO",
+  "version": "1",
+  "authors": [
+    "PootisDaMan"
+  ],
+  "credits": "MK roster update of DS Rainbow Road by Anfrost",
+  "source": {
+    "file": "RRDS_Remake_MK_Roster.xdelta",
+    "sha256": "1043685a4cefcd9517b3138a3bf9cfec85c1fa24eb4909cd590ecfeb356c00cb",
+    "url": "https://ctrcustomtracks.com/ds-rainbow-road/"
+  },
+  "template": "crash",
+  "engine": "balanced",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 31848,
+      "sha256": "a037e3d40860d9deb29935bfeb5c61d58fbfd5f5f2f055d12dc3b3bdb51488f7"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "4aa37bd99b93bd2b97420c10c6ae43d1ff455b1b76c4b20380620245c63270d9"
+    }
+  }
+}

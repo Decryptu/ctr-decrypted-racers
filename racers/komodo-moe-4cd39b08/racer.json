@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "4cd39b08-cab0-50d9-9412-399a97e201a4",
+  "name": "KOMODO MOE",
+  "short_name": "KOMODO.M",
+  "version": "1",
+  "authors": [
+    "Lockheart"
+  ],
+  "credits": "",
+  "source": {
+    "file": "Komodo_Moe.xdelta",
+    "sha256": "f4bb7dbe3c264497b880e050f83fbd81bebde5265f8b70a9653a658d6c7d1aaf",
+    "url": "https://customteamracing.com/komodo-moe/"
+  },
+  "template": "fakecrash",
+  "engine": "balanced",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 15724,
+      "sha256": "45634686aaa0ede40a2fe7025911ba7cf89199212057d689bc2289795fb20724"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "7f2571cf5f6973a7db6ff33f642fd622b7bdf14caa23cff7ca88f87f62f17232"
+    }
+  }
+}

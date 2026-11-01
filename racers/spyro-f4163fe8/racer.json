@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "f4163fe8-f8f2-5c25-a0d8-0a2acfad64ee",
+  "name": "SPYRO",
+  "short_name": "SPYRO",
+  "version": "1",
+  "authors": [
+    "Lockheart"
+  ],
+  "credits": "",
+  "source": {
+    "file": "Spyro_Skateboard.xdelta",
+    "sha256": "17a1dc0a896aacf7fbc95a42a90b86da48d70df0c8428f9d9d05c822e0be1bb7",
+    "url": "https://customteamracing.com/skateboard-spyro/"
+  },
+  "template": "pura",
+  "engine": "turn",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 21088,
+      "sha256": "dc21f63d3de105a5ba6d0e5d95995fabf2849fc1b66b1f4848be574fca9bc199"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "1e705e2527f288e861cd95370b90ab63c4ef2dccd07ee713941bd23310ee2564"
+    }
+  }
+}

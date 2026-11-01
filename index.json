@@ -176,6 +176,19 @@
       }
     },
     {
+      "id": "408d38ef-231d-5367-8425-869dfa746bea",
+      "name": "IRON CHECKPOINT CRATE",
+      "authors": [
+        "Lockheart"
+      ],
+      "template": "fakecrash",
+      "folder": "iron-checkpoint-crate-408d38ef",
+      "manifest": {
+        "bytes": 817,
+        "sha256": "f14208f3381d574016898389a5cdeb62c5a351058840e1dd712e8166f3683707"
+      }
+    },
+    {
       "id": "9f9b4c62-1305-58e7-9c0a-c02847450ef7",
       "name": "KOALA KONG",
       "authors": [
@@ -187,6 +200,19 @@
       "manifest": {
         "bytes": 793,
         "sha256": "8a3a92ce86dd33e57cea73333a7a5daa8d86be8e5d01f381d29a51d731a1b31b"
+      }
+    },
+    {
+      "id": "4cd39b08-cab0-50d9-9412-399a97e201a4",
+      "name": "KOMODO MOE",
+      "authors": [
+        "Lockheart"
+      ],
+      "template": "fakecrash",
+      "folder": "komodo-moe-4cd39b08",
+      "manifest": {
+        "bytes": 783,
+        "sha256": "a580d0bbf3686cf1bf7b56d5b8fce187bd72b6e1eac2a2179b5d9c1c08ed6f50"
       }
     },
     {
@@ -202,6 +228,45 @@
       "manifest": {
         "bytes": 821,
         "sha256": "3817e78549b26f9c804bf8789833b1f0de7913e61799daa7fc812de77fbd6ea5"
+      }
+    },
+    {
+      "id": "23a45478-6b2b-511d-ad64-674edb125d00",
+      "name": "LUIGI",
+      "authors": [
+        "PootisDaMan"
+      ],
+      "template": "fakecrash",
+      "folder": "luigi-23a45478",
+      "manifest": {
+        "bytes": 838,
+        "sha256": "cef49c7adbfec486dd32568a1040f765a40094e49abe1ce60314d23e4ed995e1"
+      }
+    },
+    {
+      "id": "80715fde-e61e-5366-b152-1aee498c39ee",
+      "name": "MARIO",
+      "authors": [
+        "PootisDaMan"
+      ],
+      "template": "crash",
+      "folder": "mario-80715fde",
+      "manifest": {
+        "bytes": 834,
+        "sha256": "1a104d1afc1e30fc4fa57072491969244410797e58b8114e42df3cc479318785"
+      }
+    },
+    {
+      "id": "177d9f64-8b92-55aa-b149-825c90e19405",
+      "name": "N. BRIO",
+      "authors": [
+        "Lockheart"
+      ],
+      "template": "ngin",
+      "folder": "n-brio-177d9f64",
+      "manifest": {
+        "bytes": 797,
+        "sha256": "512c773faf93b6e67169535646886333704c1dc211b60daaba34401a2f641b48"
       }
     },
     {
@@ -264,6 +329,32 @@
       }
     },
     {
+      "id": "c4d07d89-2cf0-50d9-8bdf-d6de3dc9be51",
+      "name": "PRINCESS PEACH",
+      "authors": [
+        "PootisDaMan"
+      ],
+      "template": "coco",
+      "folder": "princess-peach-c4d07d89",
+      "manifest": {
+        "bytes": 839,
+        "sha256": "c2d154c132c50256e25796228f8363a4db695f46434365df3f61995852972abf"
+      }
+    },
+    {
+      "id": "d70b99db-dade-5064-a3ce-301567dad080",
+      "name": "RAINBOW ROAD BOWSER",
+      "authors": [
+        "Angel123"
+      ],
+      "template": "tiny",
+      "folder": "rainbow-road-bowser-d70b99db",
+      "manifest": {
+        "bytes": 817,
+        "sha256": "fdfa92c63125ef0b5a122fed30168af06cff3a7f1779607045b3f2f93111dad3"
+      }
+    },
+    {
       "id": "97806a74-2882-5da4-8b51-365f5f11f415",
       "name": "RATCHET",
       "authors": [
@@ -274,6 +365,19 @@
       "manifest": {
         "bytes": 786,
         "sha256": "204490bfde6f3be30bcb70838e318eb6424eb879684d119481bfa13fd824c41a"
+      }
+    },
+    {
+      "id": "1afa923d-ecc0-5675-bf40-109281720433",
+      "name": "RILLA ROO",
+      "authors": [
+        "Lockheart"
+      ],
+      "template": "papu",
+      "folder": "rilla-roo-1afa923d",
+      "manifest": {
+        "bytes": 796,
+        "sha256": "0f9689ce4ee5f601e7510e186ea14a91e8b144d1adc5a3c70941d391ddc0942f"
       }
     },
     {
@@ -307,6 +411,19 @@
       }
     },
     {
+      "id": "3ef86288-b29c-5424-9287-c207b6d222cf",
+      "name": "SHY GUY",
+      "authors": [
+        "PootisDaMan"
+      ],
+      "template": "penta",
+      "folder": "shy-guy-3ef86288",
+      "manifest": {
+        "bytes": 834,
+        "sha256": "32b142e4abdbe940f1b8ddfa38c2499ab351c728cf6421cb9380008198fbc0e4"
+      }
+    },
+    {
       "id": "723f8a01-493a-5756-bdfb-295ff91807ca",
       "name": "SIR DANIEL FORTESQUE",
       "authors": [
@@ -317,6 +434,19 @@
       "manifest": {
         "bytes": 834,
         "sha256": "13e73528b8051b79a3a6485ab654822b9a9da05cc23d24390df00973f49ae796"
+      }
+    },
+    {
+      "id": "f4163fe8-f8f2-5c25-a0d8-0a2acfad64ee",
+      "name": "SPYRO",
+      "authors": [
+        "Lockheart"
+      ],
+      "template": "pura",
+      "folder": "spyro-f4163fe8",
+      "manifest": {
+        "bytes": 778,
+        "sha256": "f08e20d116939692b00608104f3db448d3a9a8b3d87ed9f7acc93f69981b6d07"
       }
     },
     {

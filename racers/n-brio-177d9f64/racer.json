@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "177d9f64-8b92-55aa-b149-825c90e19405",
+  "name": "N. BRIO",
+  "short_name": "N. BRIO",
+  "version": "1",
+  "authors": [
+    "Lockheart"
+  ],
+  "credits": "Model edited from Crash Bash",
+  "source": {
+    "file": "n.brio_cc.xdelta",
+    "sha256": "66dee9092aaee671d26a0accf2eea45e97b7fb68101326bed0bbbf0aaa92ccdb",
+    "url": "https://customteamracing.com/dr-n-brio/"
+  },
+  "template": "ngin",
+  "engine": "accel",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 12740,
+      "sha256": "84a147c62e3854dec3b4157cebb894a8eb5e5fa9b9234ccb703b3ead2cf517d8"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "8770a827030da29c807db5d2c399d77e1b8efe4ef90e913bb8a5b9e51ad7861c"
+    }
+  }
+}

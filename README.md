@@ -17,4 +17,4 @@ python tools/racers/convert_racer.py --disc "CTR (USA).bin" --sources sources.js
 python tools/racers/build_index.py .
 ```
 
-Give every new mod its authors and link in `sources.json` first: `build_index.py` refuses a racer without authors. A package holds only the mod author's work, never data from the game disc.
+Give every new mod its authors and link in `sources.json` first: `build_index.py` refuses a racer without authors. A package holds only the mod author's work, never data from a release of the game (so `JP_Crash.xdelta`, the Japanese release's Crash, is left out).

@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "23a45478-6b2b-511d-ad64-674edb125d00",
+  "name": "LUIGI",
+  "short_name": "LUIGI",
+  "version": "1",
+  "authors": [
+    "PootisDaMan"
+  ],
+  "credits": "MK roster update of DS Rainbow Road by Anfrost",
+  "source": {
+    "file": "RRDS_Remake_MK_Roster.xdelta",
+    "sha256": "1043685a4cefcd9517b3138a3bf9cfec85c1fa24eb4909cd590ecfeb356c00cb",
+    "url": "https://ctrcustomtracks.com/ds-rainbow-road/"
+  },
+  "template": "fakecrash",
+  "engine": "balanced",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 30116,
+      "sha256": "230ca5def8f39e5b5a18f2cfb595b00e914b6ab0ceead5b00f92886c2a1b5f0c"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "41cc5fd1e3be8ee2a301e3436a386f58ebc9536fbbc6c28f298e88ab54305ca1"
+    }
+  }
+}
