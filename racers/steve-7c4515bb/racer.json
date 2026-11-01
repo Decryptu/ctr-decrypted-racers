@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "7c4515bb-4de3-518b-a270-bd010a1d9961",
+  "name": "STEVE",
+  "short_name": "STEVE",
+  "version": "1",
+  "authors": [
+    "VactricaKing"
+  ],
+  "credits": "",
+  "source": {
+    "file": "Minecart Steve Kart.xdelta",
+    "sha256": "28cef0f0336b2a75e38fc14445e84f30a6e7a33870fe1317fef72d2e95f86560",
+    "url": "https://gamebanana.com/mods/520457"
+  },
+  "template": "cortex",
+  "engine": "balanced",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 8216,
+      "sha256": "44009c5c16c46c1ad5ee042afa891ba19407331980562408ea4a5006c7a94185"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "4df8623ff0167a80c36f0416c1872343cf18d6a1e6ede67e3aa97895d990be9a"
+    }
+  }
+}

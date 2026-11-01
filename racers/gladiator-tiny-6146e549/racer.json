@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "6146e549-0afe-50aa-aa10-1b4d39df8cee",
+  "name": "GLADIATOR TINY",
+  "short_name": "G. TINY",
+  "version": "1",
+  "authors": [
+    "imlaughing2death",
+    "Nitrax",
+    "Lockheart"
+  ],
+  "credits": "",
+  "source": {
+    "file": "CTRAnniversarySkins1-1.xdelta",
+    "sha256": "cc19d193c629b4f51110ef349dab9d2529553c84e1e028305fda341eab94aabe",
+    "url": "https://gamebanana.com/mods/698353"
+  },
+  "template": "tiny",
+  "engine": "speed",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 24676,
+      "sha256": "0ae77ab277118196bbed3f15e9568691211008df1b082ff00adc2e8c3b31bbdc"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "9a37a9ea6ad9bd03913736228cca79ca286c5e35b2bf869c8cd2b326c3b165e8"
+    }
+  }
+}

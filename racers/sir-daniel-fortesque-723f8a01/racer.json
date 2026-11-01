@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "723f8a01-493a-5756-bdfb-295ff91807ca",
+  "name": "SIR DANIEL FORTESQUE",
+  "short_name": "SIR DAN",
+  "version": "1",
+  "authors": [
+    "imlaughing2death"
+  ],
+  "credits": "Model edited from a MediEvil 2 model by AAB.",
+  "source": {
+    "file": "ctr_rebuild.xdelta",
+    "sha256": "d4a2f540f6135636d439b32b0b5cd073fceac257f8466f759a02060bb904a103",
+    "url": "https://gamebanana.com/mods/599605"
+  },
+  "template": "crash",
+  "engine": "balanced",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 17528,
+      "sha256": "b079c81414af402df817ccd07e0005dffb3be3e7054ae68833966939d6764696"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "4db3cc1f12dcdc22040c568d0a00e742942daf23ff7a48fd9791d6d8426e31e9"
+    }
+  }
+}

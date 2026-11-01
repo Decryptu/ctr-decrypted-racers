@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "9fa1a6b1-acf5-5e34-9329-5b47061894d2",
+  "name": "CRUNCH BANDICOOT",
+  "short_name": "CRUNCH",
+  "version": "1",
+  "authors": [
+    "imlaughing2death",
+    "Nitrax",
+    "Lockheart"
+  ],
+  "credits": "",
+  "source": {
+    "file": "CTRAnniversarySkins1-1.xdelta",
+    "sha256": "cc19d193c629b4f51110ef349dab9d2529553c84e1e028305fda341eab94aabe",
+    "url": "https://gamebanana.com/mods/698353"
+  },
+  "template": "dingodile",
+  "engine": "speed",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 38132,
+      "sha256": "9003e3bb8861e329861ba48582ed4abb271d6beaacaa346b7f87b171a07a6c44"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "6f721bac3f0b7c3d87a06db85d51772ca19b650e762866cee6ee9a96040f8b08"
+    }
+  }
+}

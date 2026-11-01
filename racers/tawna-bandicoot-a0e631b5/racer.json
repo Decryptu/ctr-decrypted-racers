@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "a0e631b5-61e9-5abd-b872-d314e424428c",
+  "name": "TAWNA BANDICOOT",
+  "short_name": "TAWNA",
+  "version": "1",
+  "authors": [
+    "imlaughing2death",
+    "Nitrax",
+    "Lockheart"
+  ],
+  "credits": "",
+  "source": {
+    "file": "CTRAnniversarySkins1-1.xdelta",
+    "sha256": "cc19d193c629b4f51110ef349dab9d2529553c84e1e028305fda341eab94aabe",
+    "url": "https://gamebanana.com/mods/698353"
+  },
+  "template": "coco",
+  "engine": "accel",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 31960,
+      "sha256": "c04104ca4f6d32ff70e79dba7f1c36bda99dad31aef9d1f931200aa033323680"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "ebcad7090a891148783522908ae3787b186ff908c1429ff0887c443ea3f2e246"
+    }
+  }
+}

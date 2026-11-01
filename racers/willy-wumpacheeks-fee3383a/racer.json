@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "fee3383a-51d6-58c6-a5cf-3bf5ce51490f",
+  "name": "WILLY WUMPACHEEKS",
+  "short_name": "WILLY",
+  "version": "1",
+  "authors": [
+    "imlaughing2death",
+    "Nitrax",
+    "Lockheart"
+  ],
+  "credits": "",
+  "source": {
+    "file": "CTRAnniversarySkins1-1.xdelta",
+    "sha256": "cc19d193c629b4f51110ef349dab9d2529553c84e1e028305fda341eab94aabe",
+    "url": "https://gamebanana.com/mods/698353"
+  },
+  "template": "pinstripe",
+  "engine": "accel",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 49772,
+      "sha256": "226d284dd34485ef6e96a668fc91fb5f721255b6cc6990bc8ecf3483db101436"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "2845a054b6eb603726fa8014f94f309561d8e0e1dbe3335cfb0f810d973131b7"
+    }
+  }
+}

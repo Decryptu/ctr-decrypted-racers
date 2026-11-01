@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Racer files are binary and must keep their exact bytes (racer.json pins their SHA-256).
+*.ctr binary
+*.bin binary
+*.png binary
+racer.json text eol=lf
+index.json text eol=lf

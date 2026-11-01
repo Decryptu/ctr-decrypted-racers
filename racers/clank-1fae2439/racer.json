@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "1fae2439-65ed-5a09-ae10-005c2cc2d852",
+  "name": "CLANK",
+  "short_name": "CLANK",
+  "version": "1",
+  "authors": [
+    "imlaughing2death"
+  ],
+  "credits": "",
+  "source": {
+    "file": "CTRRatchetClankQwark.xdelta",
+    "sha256": "34ae9b01c9717a30c079fe306c683e220c7838733f44ba21820afd3dd7e55a31",
+    "url": "https://gamebanana.com/mods/624342"
+  },
+  "template": "polar",
+  "engine": "turn",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 25272,
+      "sha256": "5e6a79f94de92885dc33a6129450d109d4331964b2b3b023293b2a72a0100500"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "fb524e6efc49ef9ef2cd42df2e63d5824e88644d5a1d80b0f21021fc271ac806"
+    }
+  }
+}

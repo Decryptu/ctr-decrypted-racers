@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "7fa72dd4-6330-5069-b5e4-f1c6d31fc12b",
+  "name": "RILLA ROO",
+  "short_name": "RILLA",
+  "version": "1",
+  "authors": [
+    "imlaughing2death",
+    "Nitrax",
+    "Lockheart"
+  ],
+  "credits": "",
+  "source": {
+    "file": "CTRAnniversarySkins1-1.xdelta",
+    "sha256": "cc19d193c629b4f51110ef349dab9d2529553c84e1e028305fda341eab94aabe",
+    "url": "https://gamebanana.com/mods/698353"
+  },
+  "template": "fakecrash",
+  "engine": "balanced",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 21016,
+      "sha256": "3d2ef732ead78aec269946646afa35ecd84d30e05730c04a952867dbccb7bc70"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "5c987e6e9dd16e4d2f55674edc165852f0a61d6517a0e15b5d578fef7a39211d"
+    }
+  }
+}

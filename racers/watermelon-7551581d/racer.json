@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "7551581d-afa1-54e1-99ea-65108d8c93de",
+  "name": "WATERMELON",
+  "short_name": "MELON",
+  "version": "1",
+  "authors": [
+    "Fco64"
+  ],
+  "credits": "",
+  "source": {
+    "file": "NormalCTR.xdelta",
+    "sha256": "c2d6d524ea82987dd903be1f44e2d9028adee8e9d006661914a40ed3227b93fe",
+    "url": "https://gamebanana.com/mods/595976"
+  },
+  "template": "tiny",
+  "engine": "speed",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 10268,
+      "sha256": "1c81a23ae50a044a6ac2c6536fbc10de7e9eac16298b208d45df9d9820747c4a"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "5a21566df2526ad15f1b66c2e19d2fb0b9b060ac0f4abb30331deeb8b8da885b"
+    }
+  }
+}

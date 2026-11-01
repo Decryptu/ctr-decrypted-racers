@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "61a7c661-9d07-5ef1-b8fb-1f66f61722be",
+  "name": "CRASH (ABOUT TIME)",
+  "short_name": "CRASH",
+  "version": "1",
+  "authors": [
+    "imlaughing2death",
+    "Nitrax",
+    "Lockheart"
+  ],
+  "credits": "",
+  "source": {
+    "file": "CTRAnniversarySkins1-1.xdelta",
+    "sha256": "cc19d193c629b4f51110ef349dab9d2529553c84e1e028305fda341eab94aabe",
+    "url": "https://gamebanana.com/mods/698353"
+  },
+  "template": "crash",
+  "engine": "balanced",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 37892,
+      "sha256": "68c6e35ca94b2c10f85267598667ee4637dbbb33c7b6148af984d304ab76ebc0"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "fec04b76326cd17f7a2fdb499285c4faa2c0b403a40281a8eeb1baf88cf5c65e"
+    }
+  }
+}

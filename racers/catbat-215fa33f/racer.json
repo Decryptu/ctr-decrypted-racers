@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "215fa33f-d749-5e1f-a95e-500fb66f3b4a",
+  "name": "CATBAT",
+  "short_name": "CATBAT",
+  "version": "1",
+  "authors": [
+    "imlaughing2death",
+    "Nitrax",
+    "Lockheart"
+  ],
+  "credits": "",
+  "source": {
+    "file": "CTRAnniversarySkins1-1.xdelta",
+    "sha256": "cc19d193c629b4f51110ef349dab9d2529553c84e1e028305fda341eab94aabe",
+    "url": "https://gamebanana.com/mods/698353"
+  },
+  "template": "penta",
+  "engine": "turn",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 30124,
+      "sha256": "8142ead4da58fedaa4c9c00151df185ef2216ddd13065742cb3da81b94f787fa"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "961ac2f93ad2986c317b525b2bd8303979e3aaf69cde0e822c2bd2584232c267"
+    }
+  }
+}

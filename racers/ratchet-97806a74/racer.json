@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "97806a74-2882-5da4-8b51-365f5f11f415",
+  "name": "RATCHET",
+  "short_name": "RATCHET",
+  "version": "1",
+  "authors": [
+    "imlaughing2death"
+  ],
+  "credits": "",
+  "source": {
+    "file": "CTRRatchetClankQwark.xdelta",
+    "sha256": "34ae9b01c9717a30c079fe306c683e220c7838733f44ba21820afd3dd7e55a31",
+    "url": "https://gamebanana.com/mods/624342"
+  },
+  "template": "crash",
+  "engine": "balanced",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 29320,
+      "sha256": "16ebe68bdebda67c3b8f3bcba06b5625304bcd9241188c29bc7aa1d204219908"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "2ddf2dde9f9c087ac005c34ef4d5460b3785f63b67eef3bd043c3f331de059e9"
+    }
+  }
+}

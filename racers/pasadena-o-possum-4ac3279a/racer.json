@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "4ac3279a-56b6-5510-9f35-eff7b94e0fbc",
+  "name": "PASADENA O POSSUM",
+  "short_name": "PASADENA",
+  "version": "1",
+  "authors": [
+    "imlaughing2death",
+    "Nitrax",
+    "Lockheart"
+  ],
+  "credits": "",
+  "source": {
+    "file": "CTRAnniversarySkins1-1.xdelta",
+    "sha256": "cc19d193c629b4f51110ef349dab9d2529553c84e1e028305fda341eab94aabe",
+    "url": "https://gamebanana.com/mods/698353"
+  },
+  "template": "tropy",
+  "engine": "speed",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 41248,
+      "sha256": "00127f9dc7759d98b056e164c1da26dcd811d21fee89acdfcae0bfe00ff022cc"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "60638f62910583a8a1099edf4fc7320bc220e3b513f9e7cd6ed0cd57c2b12fc6"
+    }
+  }
+}

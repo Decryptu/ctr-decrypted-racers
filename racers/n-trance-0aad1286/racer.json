@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "0aad1286-e8b3-583f-a8ca-dcb11a1c01a6",
+  "name": "N. TRANCE",
+  "short_name": "N.TRANCE",
+  "version": "1",
+  "authors": [
+    "robthefryman",
+    "Angel123/Booz"
+  ],
+  "credits": "",
+  "source": {
+    "file": "ctr-u_N-TranceKart.xdelta",
+    "sha256": "b26760a145faba7179a7a6b17b178fd2c7b895a609b93126dd3ead0295926094",
+    "url": "https://gamebanana.com/mods/570560"
+  },
+  "template": "pura",
+  "engine": "turn",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 9080,
+      "sha256": "f88b050e64f6c516346d7af2989cf851f142719767c0ea1e61bd4c08f18c9c5e"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "47cb2c3204a2a5c77846be0432e335c1d6e998434ac4de6d5a2a81922affa618"
+    }
+  }
+}

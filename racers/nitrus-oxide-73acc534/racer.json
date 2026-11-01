@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "73acc534-f4a8-5a5e-a0d0-15bef0171c51",
+  "name": "NITRUS OXIDE",
+  "short_name": "N. OXIDE",
+  "version": "1",
+  "authors": [
+    "imlaughing2death",
+    "Nitrax",
+    "Lockheart"
+  ],
+  "credits": "",
+  "source": {
+    "file": "CTRAnniversarySkins1-1.xdelta",
+    "sha256": "cc19d193c629b4f51110ef349dab9d2529553c84e1e028305fda341eab94aabe",
+    "url": "https://gamebanana.com/mods/698353"
+  },
+  "template": "komodo",
+  "engine": "balanced",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 49136,
+      "sha256": "f6c7dd2793d42f68a9d08163298e19944608215418ffea8759671673b1f2bba8"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "b9bbf23fa28c7d2ce519e53fc3f965a6455f87f99b627c5b8bd4dd324eb53583"
+    }
+  }
+}

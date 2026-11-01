@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "177057a4-dd03-563f-9e0a-4edf1b3ff982",
+  "name": "CAPTAIN QWARK",
+  "short_name": "QWARK",
+  "version": "1",
+  "authors": [
+    "imlaughing2death"
+  ],
+  "credits": "",
+  "source": {
+    "file": "CTRRatchetClankQwark.xdelta",
+    "sha256": "34ae9b01c9717a30c079fe306c683e220c7838733f44ba21820afd3dd7e55a31",
+    "url": "https://gamebanana.com/mods/624342"
+  },
+  "template": "tiny",
+  "engine": "speed",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 29668,
+      "sha256": "357713ad85e3a36d3285e745396990a6954f4bf3f1e6c919bde22f7d8c6e5c5f"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "36253cd70f05522e35e29710d69753e080812d13b21e1a632a475e70250ce261"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "a1b96e35-6d56-5b02-8790-57f152bf3aed",
+  "name": "EMPEROR VELO XXVIII",
+  "short_name": "VELO XVII",
+  "version": "1",
+  "authors": [
+    "imlaughing2death",
+    "Nitrax",
+    "Lockheart"
+  ],
+  "credits": "",
+  "source": {
+    "file": "CTRAnniversarySkins1-1.xdelta",
+    "sha256": "cc19d193c629b4f51110ef349dab9d2529553c84e1e028305fda341eab94aabe",
+    "url": "https://gamebanana.com/mods/698353"
+  },
+  "template": "oxide",
+  "engine": "balanced",
+  "wheels": false,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 48264,
+      "sha256": "8025684822eac381480ca5e7f56b078188eae04a14e5e0c1bc612f9aaecbd497"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "c594d43bb058cfe632aa567ba6ca4aa8cf5a574d1a50498c3a5f95b774134a5a"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "cb9e5a10-b48f-52f9-a4bd-8cb7e3f52402",
+  "name": "LAB ASSISTANT",
+  "short_name": "ASSISTANT",
+  "version": "1",
+  "authors": [
+    "imlaughing2death",
+    "Nitrax",
+    "Lockheart"
+  ],
+  "credits": "",
+  "source": {
+    "file": "CTRAnniversarySkins1-1.xdelta",
+    "sha256": "cc19d193c629b4f51110ef349dab9d2529553c84e1e028305fda341eab94aabe",
+    "url": "https://gamebanana.com/mods/698353"
+  },
+  "template": "roo",
+  "engine": "turn",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 17240,
+      "sha256": "989e616cf62afd0cfb58b718e9e9f55f11e457154c59a1929d887587c0784015"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "db937c207193507a979d742b21c98345b9a670a818c568a9cf2fefb8b76ed90f"
+    }
+  }
+}

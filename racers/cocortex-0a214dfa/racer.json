@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "0a214dfa-4a89-528a-aa71-bef0e3750d09",
+  "name": "COCORTEX",
+  "short_name": "COCORTEX",
+  "version": "1",
+  "authors": [
+    "imlaughing2death",
+    "Nitrax",
+    "Lockheart"
+  ],
+  "credits": "",
+  "source": {
+    "file": "CTRAnniversarySkins1-1.xdelta",
+    "sha256": "cc19d193c629b4f51110ef349dab9d2529553c84e1e028305fda341eab94aabe",
+    "url": "https://gamebanana.com/mods/698353"
+  },
+  "template": "cortex",
+  "engine": "balanced",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 40924,
+      "sha256": "84a039d167e974178bd1644fb2b4272b9f132304ca40208adbf52152ce967074"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "9d5cfdece2fa62509fd64aad262d20de2bd77026a2de9aae9213ba6574994bc1"
+    }
+  }
+}

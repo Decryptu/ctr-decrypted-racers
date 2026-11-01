@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "9f9b4c62-1305-58e7-9c0a-c02847450ef7",
+  "name": "KOALA KONG",
+  "short_name": "KONG",
+  "version": "1",
+  "authors": [
+    "robthefryman",
+    "Angel123/Booz"
+  ],
+  "credits": "",
+  "source": {
+    "file": "ctr-u_KongKart.xdelta",
+    "sha256": "7a858e82d53822a7a31facc00990e805df473d4c1ac68a8f388a952d8c1f9de5",
+    "url": "https://gamebanana.com/mods/573374"
+  },
+  "template": "tiny",
+  "engine": "speed",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 12132,
+      "sha256": "ae7fa8c9e5c318eb25010cf766d854aa2b7a8aafe5518f6d59cc1051429f1886"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "1d37d1c88c3985cd55fa3f591ae3a48eac9eb1c9f70c45ad20b7417cffadb5c8"
+    }
+  }
+}

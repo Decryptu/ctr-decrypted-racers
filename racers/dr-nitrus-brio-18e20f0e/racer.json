@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "18e20f0e-d724-512a-a115-cc1e508e6c46",
+  "name": "DR. NITRUS BRIO",
+  "short_name": "N.BRIO",
+  "version": "1",
+  "authors": [
+    "imlaughing2death",
+    "Nitrax",
+    "Lockheart"
+  ],
+  "credits": "",
+  "source": {
+    "file": "CTRAnniversarySkins1-1.xdelta",
+    "sha256": "cc19d193c629b4f51110ef349dab9d2529553c84e1e028305fda341eab94aabe",
+    "url": "https://gamebanana.com/mods/698353"
+  },
+  "template": "ngin",
+  "engine": "accel",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 12428,
+      "sha256": "3903b15896a27b3dcaefc3928cb627e5228b574fcdb9827ae699939066aa229e"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "6c8d427cf2afd18a00f9d94949aaba8e4044fda37f117962524c75c4380f7cc3"
+    }
+  }
+}

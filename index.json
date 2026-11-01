@@ -1,0 +1,379 @@
+{
+  "schema_version": 1,
+  "racers": [
+    {
+      "id": "043dcfd2-5934-52d2-b82c-eeaf05072e16",
+      "name": "BOWSER",
+      "authors": [
+        "Angel123/Booz",
+        "robthefryman"
+      ],
+      "template": "tiny",
+      "folder": "bowser-043dcfd2",
+      "manifest": {
+        "bytes": 786,
+        "sha256": "5400d76220f085ba6f08a37439f4020533399227f1a066e47a5fd9715146a2e2"
+      }
+    },
+    {
+      "id": "177057a4-dd03-563f-9e0a-4edf1b3ff982",
+      "name": "CAPTAIN QWARK",
+      "authors": [
+        "imlaughing2death"
+      ],
+      "template": "tiny",
+      "folder": "captain-qwark-177057a4",
+      "manifest": {
+        "bytes": 786,
+        "sha256": "a02e0e833ccb07228c42a72ade28d86727c085dba950785fad0598f4824021cc"
+      }
+    },
+    {
+      "id": "215fa33f-d749-5e1f-a95e-500fb66f3b4a",
+      "name": "CATBAT",
+      "authors": [
+        "imlaughing2death",
+        "Nitrax",
+        "Lockheart"
+      ],
+      "template": "penta",
+      "folder": "catbat-215fa33f",
+      "manifest": {
+        "bytes": 813,
+        "sha256": "59d4da733059d0aeffa8684dd03724b5b0bc493a27a05e043ddc15600b6df676"
+      }
+    },
+    {
+      "id": "1fae2439-65ed-5a09-ae10-005c2cc2d852",
+      "name": "CLANK",
+      "authors": [
+        "imlaughing2death"
+      ],
+      "template": "polar",
+      "folder": "clank-1fae2439",
+      "manifest": {
+        "bytes": 778,
+        "sha256": "70e92c7dde033e00b1cda34be7fbaba8ef9c797598be71f2ce40c937f9f0edcc"
+      }
+    },
+    {
+      "id": "22a3029c-de0e-5c33-9a26-63f1fb770c7c",
+      "name": "COCO BANDICOOT",
+      "authors": [
+        "imlaughing2death",
+        "Nitrax",
+        "Lockheart"
+      ],
+      "template": "polar",
+      "folder": "coco-bandicoot-22a3029c",
+      "manifest": {
+        "bytes": 819,
+        "sha256": "f601755e2bdca27c5913537118df7b4f6afc025972bd86fcbc13f0f7f9869ba6"
+      }
+    },
+    {
+      "id": "0a214dfa-4a89-528a-aa71-bef0e3750d09",
+      "name": "COCORTEX",
+      "authors": [
+        "imlaughing2death",
+        "Nitrax",
+        "Lockheart"
+      ],
+      "template": "cortex",
+      "folder": "cocortex-0a214dfa",
+      "manifest": {
+        "bytes": 822,
+        "sha256": "ce6a28af62dc9154bb778c5d985da887a74b196abe58e26fa43b26a5ba2f26c8"
+      }
+    },
+    {
+      "id": "61a7c661-9d07-5ef1-b8fb-1f66f61722be",
+      "name": "CRASH (ABOUT TIME)",
+      "authors": [
+        "imlaughing2death",
+        "Nitrax",
+        "Lockheart"
+      ],
+      "template": "crash",
+      "folder": "crash-about-time-61a7c661",
+      "manifest": {
+        "bytes": 828,
+        "sha256": "e2f3372760aac17dc689a59e534fe2bb1958667b72dc9a08ed86fdf20f0e2d3a"
+      }
+    },
+    {
+      "id": "91e6f5a6-97c2-59e6-b6c0-cf46ca52ead2",
+      "name": "CRUNCH BANDICOOT",
+      "authors": [
+        "robthefryman",
+        "Angel123/Booz"
+      ],
+      "template": "crash",
+      "folder": "crunch-bandicoot-91e6f5a6",
+      "manifest": {
+        "bytes": 807,
+        "sha256": "266837407cefec359ad04d94c60ddfc389f32bd5e42bb86c102011f90b925876"
+      }
+    },
+    {
+      "id": "9fa1a6b1-acf5-5e34-9329-5b47061894d2",
+      "name": "CRUNCH BANDICOOT",
+      "authors": [
+        "imlaughing2death",
+        "Nitrax",
+        "Lockheart"
+      ],
+      "template": "dingodile",
+      "folder": "crunch-bandicoot-9fa1a6b1",
+      "manifest": {
+        "bytes": 828,
+        "sha256": "55cca98bdfaa8bcbece8a4781701bb733660eb5c8ac0d147990325f773e93eac"
+      }
+    },
+    {
+      "id": "18e20f0e-d724-512a-a115-cc1e508e6c46",
+      "name": "DR. NITRUS BRIO",
+      "authors": [
+        "imlaughing2death",
+        "Nitrax",
+        "Lockheart"
+      ],
+      "template": "ngin",
+      "folder": "dr-nitrus-brio-18e20f0e",
+      "manifest": {
+        "bytes": 822,
+        "sha256": "655a80cd56e76379854710895438344e6be8497a5ffacaeca17cb6c4eeaf71e7"
+      }
+    },
+    {
+      "id": "a1b96e35-6d56-5b02-8790-57f152bf3aed",
+      "name": "EMPEROR VELO XXVIII",
+      "authors": [
+        "imlaughing2death",
+        "Nitrax",
+        "Lockheart"
+      ],
+      "template": "oxide",
+      "folder": "emperor-velo-xxviii-a1b96e35",
+      "manifest": {
+        "bytes": 834,
+        "sha256": "0834890872fe4b9b17c19c623092f5ff6085771633851507adc0766d22f89b76"
+      }
+    },
+    {
+      "id": "6146e549-0afe-50aa-aa10-1b4d39df8cee",
+      "name": "GLADIATOR TINY",
+      "authors": [
+        "imlaughing2death",
+        "Nitrax",
+        "Lockheart"
+      ],
+      "template": "tiny",
+      "folder": "gladiator-tiny-6146e549",
+      "manifest": {
+        "bytes": 822,
+        "sha256": "81af0518ae87ff267d2d799babd692357d881d082518ad7718d2c24607acef21"
+      }
+    },
+    {
+      "id": "9f9b4c62-1305-58e7-9c0a-c02847450ef7",
+      "name": "KOALA KONG",
+      "authors": [
+        "robthefryman",
+        "Angel123/Booz"
+      ],
+      "template": "tiny",
+      "folder": "koala-kong-9f9b4c62",
+      "manifest": {
+        "bytes": 793,
+        "sha256": "8a3a92ce86dd33e57cea73333a7a5daa8d86be8e5d01f381d29a51d731a1b31b"
+      }
+    },
+    {
+      "id": "cb9e5a10-b48f-52f9-a4bd-8cb7e3f52402",
+      "name": "LAB ASSISTANT",
+      "authors": [
+        "imlaughing2death",
+        "Nitrax",
+        "Lockheart"
+      ],
+      "template": "roo",
+      "folder": "lab-assistant-cb9e5a10",
+      "manifest": {
+        "bytes": 821,
+        "sha256": "3817e78549b26f9c804bf8789833b1f0de7913e61799daa7fc812de77fbd6ea5"
+      }
+    },
+    {
+      "id": "0aad1286-e8b3-583f-a8ca-dcb11a1c01a6",
+      "name": "N. TRANCE",
+      "authors": [
+        "robthefryman",
+        "Angel123/Booz"
+      ],
+      "template": "pura",
+      "folder": "n-trance-0aad1286",
+      "manifest": {
+        "bytes": 798,
+        "sha256": "543d76d0b3139b89e22fa94155f7514d4265d9fab97aaaf3894e783451eaf447"
+      }
+    },
+    {
+      "id": "67406619-1466-5bc3-ad44-c1411feb2143",
+      "name": "NINA CORTEX",
+      "authors": [
+        "imlaughing2death",
+        "Nitrax",
+        "Lockheart"
+      ],
+      "template": "pura",
+      "folder": "nina-cortex-67406619",
+      "manifest": {
+        "bytes": 815,
+        "sha256": "0d5f92c20a43561ae6f6732f3164597568d8d99426686f93f2165ae0015d2114"
+      }
+    },
+    {
+      "id": "73acc534-f4a8-5a5e-a0d0-15bef0171c51",
+      "name": "NITRUS OXIDE",
+      "authors": [
+        "imlaughing2death",
+        "Nitrax",
+        "Lockheart"
+      ],
+      "template": "komodo",
+      "folder": "nitrus-oxide-73acc534",
+      "manifest": {
+        "bytes": 826,
+        "sha256": "400d1ef5b00d1a0fdef7340356aa458271c4e8a106ac43b4d52780481353ecbb"
+      }
+    },
+    {
+      "id": "4ac3279a-56b6-5510-9f35-eff7b94e0fbc",
+      "name": "PASADENA O POSSUM",
+      "authors": [
+        "imlaughing2death",
+        "Nitrax",
+        "Lockheart"
+      ],
+      "template": "tropy",
+      "folder": "pasadena-o-possum-4ac3279a",
+      "manifest": {
+        "bytes": 827,
+        "sha256": "45060b081d48a3ff82715bf2e04f669a114910b1505113a3e1766338ba14c26f"
+      }
+    },
+    {
+      "id": "97806a74-2882-5da4-8b51-365f5f11f415",
+      "name": "RATCHET",
+      "authors": [
+        "imlaughing2death"
+      ],
+      "template": "crash",
+      "folder": "ratchet-97806a74",
+      "manifest": {
+        "bytes": 786,
+        "sha256": "204490bfde6f3be30bcb70838e318eb6424eb879684d119481bfa13fd824c41a"
+      }
+    },
+    {
+      "id": "7fa72dd4-6330-5069-b5e4-f1c6d31fc12b",
+      "name": "RILLA ROO",
+      "authors": [
+        "imlaughing2death",
+        "Nitrax",
+        "Lockheart"
+      ],
+      "template": "fakecrash",
+      "folder": "rilla-roo-7fa72dd4",
+      "manifest": {
+        "bytes": 823,
+        "sha256": "4de298b32facd4708e6c71d3c20efac9fac3e732dacf83cacd522150398ec9fe"
+      }
+    },
+    {
+      "id": "01f07a0b-60fe-5bdd-b2dd-664f4924acc9",
+      "name": "RUSTY WALRUS",
+      "authors": [
+        "imlaughing2death",
+        "Nitrax",
+        "Lockheart"
+      ],
+      "template": "papu",
+      "folder": "rusty-walrus-01f07a0b",
+      "manifest": {
+        "bytes": 818,
+        "sha256": "ce0f80bfd9b331e93a423fd910dace9686926e334d87bac2812eb0bd6b9c8abc"
+      }
+    },
+    {
+      "id": "723f8a01-493a-5756-bdfb-295ff91807ca",
+      "name": "SIR DANIEL FORTESQUE",
+      "authors": [
+        "imlaughing2death"
+      ],
+      "template": "crash",
+      "folder": "sir-daniel-fortesque-723f8a01",
+      "manifest": {
+        "bytes": 834,
+        "sha256": "13e73528b8051b79a3a6485ab654822b9a9da05cc23d24390df00973f49ae796"
+      }
+    },
+    {
+      "id": "7c4515bb-4de3-518b-a270-bd010a1d9961",
+      "name": "STEVE",
+      "authors": [
+        "VactricaKing"
+      ],
+      "template": "cortex",
+      "folder": "steve-7c4515bb",
+      "manifest": {
+        "bytes": 777,
+        "sha256": "f73cc1d5a7568b172ba763175702f8ba190a8668271e566d39a62d916e34a78e"
+      }
+    },
+    {
+      "id": "a0e631b5-61e9-5abd-b872-d314e424428c",
+      "name": "TAWNA BANDICOOT",
+      "authors": [
+        "imlaughing2death",
+        "Nitrax",
+        "Lockheart"
+      ],
+      "template": "coco",
+      "folder": "tawna-bandicoot-a0e631b5",
+      "manifest": {
+        "bytes": 821,
+        "sha256": "0ca373afdf9b99aaa87180ea2633f1039cfc9817f14ec6db8f9d434afe6692b1"
+      }
+    },
+    {
+      "id": "7551581d-afa1-54e1-99ea-65108d8c93de",
+      "name": "WATERMELON",
+      "authors": [
+        "Fco64"
+      ],
+      "template": "tiny",
+      "folder": "watermelon-7551581d",
+      "manifest": {
+        "bytes": 761,
+        "sha256": "a8454f04eb5637fb0cd21e0c6760c7170209042657932cc6b2913cabd1102ef2"
+      }
+    },
+    {
+      "id": "fee3383a-51d6-58c6-a5cf-3bf5ce51490f",
+      "name": "WILLY WUMPACHEEKS",
+      "authors": [
+        "imlaughing2death",
+        "Nitrax",
+        "Lockheart"
+      ],
+      "template": "pinstripe",
+      "folder": "willy-wumpacheeks-fee3383a",
+      "manifest": {
+        "bytes": 828,
+        "sha256": "10d5f8ad028f5b09ff143f4bd7e584e5fa48309c5a62b0a5857be9edaf94c5f9"
+      }
+    }
+  ]
+}
