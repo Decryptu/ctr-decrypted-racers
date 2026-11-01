@@ -12,6 +12,7 @@ mods linked below with `tools/racers/convert_racer.py` (CTR Decrypted).
 | COCO BANDICOOT | imlaughing2death, Nitrax, Lockheart | https://gamebanana.com/mods/698353 |
 | COCORTEX | imlaughing2death, Nitrax, Lockheart | https://gamebanana.com/mods/698353 |
 | CRASH (ABOUT TIME) | imlaughing2death, Nitrax, Lockheart | https://gamebanana.com/mods/698353 |
+| CRASH (JAPAN) | Lockheart (Look and icon from the Japanese release of Crash Team Racing (Naughty Dog, Sony Computer Entertainment)) | https://customteamracing.com/japanese-crash/ |
 | CRUNCH BANDICOOT | robthefryman, Angel123/Booz | https://gamebanana.com/mods/575350 |
 | CRUNCH BANDICOOT | imlaughing2death, Nitrax, Lockheart | https://gamebanana.com/mods/698353 |
 | DR. NITRUS BRIO | imlaughing2death, Nitrax, Lockheart | https://gamebanana.com/mods/698353 |

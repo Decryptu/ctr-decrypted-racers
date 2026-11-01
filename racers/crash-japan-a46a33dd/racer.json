@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "a46a33dd-ed60-5873-8d08-51bec824341f",
+  "name": "CRASH (JAPAN)",
+  "short_name": "JP CRASH",
+  "version": "1",
+  "authors": [
+    "Lockheart"
+  ],
+  "credits": "Look and icon from the Japanese release of Crash Team Racing (Naughty Dog, Sony Computer Entertainment)",
+  "source": {
+    "file": "JP_Crash.xdelta",
+    "sha256": "1a95251d9d37cb2dd558bc38d7c43217758cec7c8db147bc944b719bd786bf59",
+    "url": "https://customteamracing.com/japanese-crash/"
+  },
+  "template": "crash",
+  "engine": "balanced",
+  "wheels": true,
+  "files": {
+    "model": {
+      "path": "model.ctr",
+      "bytes": 24196,
+      "sha256": "48660a8053a02c8fa1b905c1f7a869e94b2491510c1ac24f26ca3ab7bb4cbd86"
+    },
+    "portrait": {
+      "path": "portrait.bin",
+      "bytes": 612,
+      "sha256": "c82beed86c3fbab25280a94d7d7d1690744244923622cf2ca1415978bf2e8a41"
+    }
+  }
+}

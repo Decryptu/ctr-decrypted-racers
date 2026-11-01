@@ -102,6 +102,19 @@
       }
     },
     {
+      "id": "a46a33dd-ed60-5873-8d08-51bec824341f",
+      "name": "CRASH (JAPAN)",
+      "authors": [
+        "Lockheart"
+      ],
+      "template": "crash",
+      "folder": "crash-japan-a46a33dd",
+      "manifest": {
+        "bytes": 887,
+        "sha256": "defeb47f66689a72c621494978af82dd508072ba577e2463fb81a8cdf16210c6"
+      }
+    },
+    {
       "id": "91e6f5a6-97c2-59e6-b6c0-cf46ca52ead2",
       "name": "CRUNCH BANDICOOT",
       "authors": [
