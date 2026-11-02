@@ -58,17 +58,17 @@
     },
     {
       "id": "22a3029c-de0e-5c33-9a26-63f1fb770c7c",
-      "name": "COCO BANDICOOT",
+      "name": "COCO (ABOUT TIME)",
       "authors": [
         "imlaughing2death",
         "Nitrax",
         "Lockheart"
       ],
       "template": "polar",
-      "folder": "coco-bandicoot-22a3029c",
+      "folder": "coco-about-time-22a3029c",
       "manifest": {
-        "bytes": 819,
-        "sha256": "f601755e2bdca27c5913537118df7b4f6afc025972bd86fcbc13f0f7f9869ba6"
+        "bytes": 822,
+        "sha256": "80fa2c2c205d178adc962f750b878900f90c1dbfd21dbb97d6af565631b8482d"
       }
     },
     {

@@ -56,6 +56,10 @@
       "fakecrash": {
         "skip": true,
         "reason": "the same Rilla Roo as RillaRoo.xdelta"
+      },
+      "polar": {
+        "name": "COCO (ABOUT TIME)",
+        "short_name": "COCO"
       }
     }
   },
