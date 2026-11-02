@@ -115,20 +115,6 @@
       }
     },
     {
-      "id": "91e6f5a6-97c2-59e6-b6c0-cf46ca52ead2",
-      "name": "CRUNCH BANDICOOT",
-      "authors": [
-        "robthefryman",
-        "Angel123/Booz"
-      ],
-      "template": "crash",
-      "folder": "crunch-bandicoot-91e6f5a6",
-      "manifest": {
-        "bytes": 807,
-        "sha256": "266837407cefec359ad04d94c60ddfc389f32bd5e42bb86c102011f90b925876"
-      }
-    },
-    {
       "id": "9fa1a6b1-acf5-5e34-9329-5b47061894d2",
       "name": "CRUNCH BANDICOOT",
       "authors": [
@@ -270,19 +256,6 @@
       }
     },
     {
-      "id": "177d9f64-8b92-55aa-b149-825c90e19405",
-      "name": "N. BRIO",
-      "authors": [
-        "Lockheart"
-      ],
-      "template": "ngin",
-      "folder": "n-brio-177d9f64",
-      "manifest": {
-        "bytes": 797,
-        "sha256": "512c773faf93b6e67169535646886333704c1dc211b60daaba34401a2f641b48"
-      }
-    },
-    {
       "id": "0aad1286-e8b3-583f-a8ca-dcb11a1c01a6",
       "name": "N. TRANCE",
       "authors": [
@@ -355,19 +328,6 @@
       }
     },
     {
-      "id": "d70b99db-dade-5064-a3ce-301567dad080",
-      "name": "RAINBOW ROAD BOWSER",
-      "authors": [
-        "Angel123"
-      ],
-      "template": "tiny",
-      "folder": "rainbow-road-bowser-d70b99db",
-      "manifest": {
-        "bytes": 817,
-        "sha256": "fdfa92c63125ef0b5a122fed30168af06cff3a7f1779607045b3f2f93111dad3"
-      }
-    },
-    {
       "id": "97806a74-2882-5da4-8b51-365f5f11f415",
       "name": "RATCHET",
       "authors": [
@@ -391,21 +351,6 @@
       "manifest": {
         "bytes": 796,
         "sha256": "0f9689ce4ee5f601e7510e186ea14a91e8b144d1adc5a3c70941d391ddc0942f"
-      }
-    },
-    {
-      "id": "7fa72dd4-6330-5069-b5e4-f1c6d31fc12b",
-      "name": "RILLA ROO",
-      "authors": [
-        "imlaughing2death",
-        "Nitrax",
-        "Lockheart"
-      ],
-      "template": "fakecrash",
-      "folder": "rilla-roo-7fa72dd4",
-      "manifest": {
-        "bytes": 823,
-        "sha256": "4de298b32facd4708e6c71d3c20efac9fac3e732dacf83cacd522150398ec9fe"
       }
     },
     {

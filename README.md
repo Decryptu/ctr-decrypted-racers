@@ -17,4 +17,6 @@ python tools/racers/convert_racer.py --disc "CTR (USA).bin" --sources sources.js
 python tools/racers/build_index.py .
 ```
 
-Give every new mod its authors and link in `sources.json` first: `build_index.py` refuses a racer without authors. A racer that reuses another game's or release's look says so in `credits`.
+Give every new mod its authors and link in `sources.json` first: `build_index.py` refuses a racer without authors.
+
+One racer per character. When two mods give the same character (two Crunch karts, a Bowser bundled with a track mod), keep the better made one and mark the other `{"skip": true, "reason": "..."}` under its template in `sources.json`, so converting again leaves it out. `build_index.py` refuses two racers with the same name. A racer that reuses another game's or release's look says so in `credits`.

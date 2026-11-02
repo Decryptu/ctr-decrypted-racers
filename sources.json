@@ -11,7 +11,13 @@
       "robthefryman",
       "Angel123/Booz"
     ],
-    "url": "https://gamebanana.com/mods/575350"
+    "url": "https://gamebanana.com/mods/575350",
+    "racers": {
+      "crash": {
+        "skip": true,
+        "reason": "CTRAnniversarySkins1-1.xdelta has a more detailed Crunch"
+      }
+    }
   },
   "ctr-u_KongKart.xdelta": {
     "authors": [
@@ -46,6 +52,10 @@
       "tiny": {
         "name": "GLADIATOR TINY",
         "short_name": "G. TINY"
+      },
+      "fakecrash": {
+        "skip": true,
+        "reason": "the same Rilla Roo as RillaRoo.xdelta"
       }
     }
   },
@@ -133,7 +143,13 @@
       "Lockheart"
     ],
     "url": "https://customteamracing.com/dr-n-brio/",
-    "credits": "Model edited from Crash Bash"
+    "credits": "Model edited from Crash Bash",
+    "racers": {
+      "ngin": {
+        "skip": true,
+        "reason": "the same N. Brio as CTRAnniversarySkins1-1.xdelta"
+      }
+    }
   },
   "RRDS_Remake.xdelta": {
     "authors": [
@@ -143,8 +159,8 @@
     "credits": "From DS Rainbow Road by Anfrost",
     "racers": {
       "tiny": {
-        "name": "RAINBOW ROAD BOWSER",
-        "short_name": "BOWSER"
+        "skip": true,
+        "reason": "the same Bowser as Bowsermod.xdelta"
       }
     }
   },
